@@ -15,4 +15,4 @@ valorTerreno = area * valorMetro;
 
 //Retorno visual.
 Console.WriteLine("AREA - " + area.ToString("F2", CultureInfo.InvariantCulture));
-Console.WriteLine("PRECO = "+valorTerreno.ToString("F2", CultureInfo.InvariantCulture));
+Console.WriteLine("PRECO = " + valorTerreno.ToString("F2", CultureInfo.InvariantCulture));
