@@ -1,5 +1,6 @@
 ﻿//Biblioteca do CultureInfo.InvariantCulture
 using System.Globalization;
+using System.Numerics;
 
 //Variáveis
 double largura, comprimento, area, valorMetro, valorTerreno;
